@@ -1,0 +1,21 @@
+body {
+    background-color:greenyellow;
+}
+h1 {
+   color: red;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   background-color: black;
+}
+
+h2 {
+    color: blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: darkseagreen;
+}
+
+p{
+    color: tomato;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: cadetblue;
+}
+
